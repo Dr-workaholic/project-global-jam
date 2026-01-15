@@ -1,2 +1,2 @@
 
-Please place art assets in this folder
+Please place visual and audio assets in this folder
