@@ -1,1 +1,1 @@
-Only playable builds ready for browser should be placed in this folder.
+Only playable builds should be placed in this folder.
